@@ -1,0 +1,9 @@
+{
+  "schema": 1,
+  "productId": "gif-downloader-y",
+  "channel": "stable",
+  "active": false,
+  "releaseId": "yd-0.1.13",
+  "version": "0.1.13",
+  "patchNotes": []
+}

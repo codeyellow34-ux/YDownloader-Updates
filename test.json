@@ -2,11 +2,8 @@
   "schema": 1,
   "productId": "gif-downloader-y",
   "channel": "test",
-  "active": true,
-  "releaseId": "test-yd-0.1.15-popup-check",
-  "version": "0.1.15",
-  "patchNotes": [
-    "테스트 공지입니다. 실제 배포 버전 안내가 아닙니다.",
-    "업데이트 팝업의 표시와 제작자 페이지 연결을 확인합니다."
-  ]
+  "active": false,
+  "releaseId": "test-yd-0.1.13",
+  "version": "0.1.13",
+  "patchNotes": []
 }

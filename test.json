@@ -2,7 +2,7 @@
   "schema": 1,
   "productId": "gif-downloader-y",
   "channel": "test",
-  "active": true,
+  "active": false,
   "releaseId": "test-yd-0.1.15-20261010-0919",
   "version": "0.1.15",
   "patchNotes": [
